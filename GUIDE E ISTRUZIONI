@@ -1,0 +1,10 @@
+ITALIANO:
+Installazione per Linux:
+-fai sulla shell di linux "git clone https://github.com/marcello212121/PyProtector.git"
+-vai a cercare dove hai installato il file e metti il file "PyProtector" nella cartella in cui lo vuoi usare
+-fai sull'editor di testo "import PyProtector"
+COSA FA PYPROTECTOR?
+PyProtector creato dal sottoscritto è un semplicissimo modulo in python creato con lo scopo di avvantaggiare i sviluppatori
+PyProtector appena importato sarà tutto automatico, vi farà un piccolo login che se indovinato si potrà accedere avanti al
+programma invece se non indovinato il login continuerà ad essere attivo dicendo "password errata". Ci sta anche
+la funzione Ricordati per i svogliati! Basterà importare questo modulo e farà tutto automatico.
