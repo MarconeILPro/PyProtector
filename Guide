@@ -12,3 +12,21 @@ la funzione Ricordati per i svogliati! Basterà importare questo modulo e farà 
 Ovviamente per cambiare le password potrete anche editare il file in python di nome PyProtector.py.
 
 ATTENZIONE: SE COPIATE IL FILE CON UNA VERSIONE MODIFICATA DATEMI I CREDITI!
+
+
+English:
+Installation for Linux:
+-do on linux shell "git clone https://github.com/marcello212121/PyProtector.git"
+-go find where you installed the file and put the "PyProtector" file in the folder where you want to use it
+-do the "import PyProtector" text editor
+WHAT DOES PYPROTECTOR DO?
+PyProtector created by myself is a very simple python module created with the aim of benefiting developers
+Just imported PyProtector will be completely automatic, it will give you a small login which if you guessed it will be possible to access the
+program instead if not guessed the login will continue to be active saying "wrong password". It also fits
+the Remember for patrons feature! Just import this form and it will do everything automatically.
+
+Of course, to change the passwords you can also edit the python file called PyProtector.py.
+
+ATTENTION: IF YOU COPY THE FILE WITH A MODIFIED VERSION GIVE ME THE CREDITS!
+
+
