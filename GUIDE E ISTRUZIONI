@@ -8,3 +8,7 @@ PyProtector creato dal sottoscritto è un semplicissimo modulo in python creato 
 PyProtector appena importato sarà tutto automatico, vi farà un piccolo login che se indovinato si potrà accedere avanti al
 programma invece se non indovinato il login continuerà ad essere attivo dicendo "password errata". Ci sta anche
 la funzione Ricordati per i svogliati! Basterà importare questo modulo e farà tutto automatico.
+
+Ovviamente per cambiare le password potrete anche editare il file in python di nome PyProtector.py.
+
+ATTENZIONE: SE COPIATE IL FILE CON UNA VERSIONE MODIFICATA DATEMI I CREDITI!
