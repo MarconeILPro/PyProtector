@@ -1,6 +1,6 @@
 ITALIANO:
 Installazione per Linux:
--fai sulla shell di linux "git clone https://github.com/marcello212121/PyProtector.git"
+-fai sulla shell di linux "git clone https://github.com/Panboggo/PyProtector.git"
 -vai a cercare dove hai installato il file e metti il file "PyProtector" nella cartella in cui lo vuoi usare
 -fai sull'editor di testo "import PyProtector"
 COSA FA PYPROTECTOR?
@@ -16,7 +16,7 @@ ATTENZIONE: SE COPIATE IL FILE CON UNA VERSIONE MODIFICATA DATEMI I CREDITI!
 
 English:
 Installation for Linux:
--do on linux shell "git clone https://github.com/marcello212121/PyProtector.git"
+-do on linux shell "git clone https://github.com/Panboggo/PyProtector.git"
 -go find where you installed the file and put the "PyProtector" file in the folder where you want to use it
 -do the "import PyProtector" text editor
 WHAT DOES PYPROTECTOR DO?
